@@ -2,7 +2,13 @@
 
 A complete full-stack finance tracking system featuring a **Python (FastAPI)** backend and a **React (TypeScript)** frontend.
 
+demo
+
+https://github.com/user-attachments/assets/3ef0cf00-d666-44f4-9670-e5ac9e56ad56
+
+
 ## 🌟 Key Features
+
 
 - **Financial Records Management**: CRUD operations for income and expenses with advanced filtering.
 - **Summary & Analytics**: Real-time balance calculations and category breakdowns.
